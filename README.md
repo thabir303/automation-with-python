@@ -16,7 +16,7 @@ This script requires Python and the following libraries:
 You can install the required library using pip:
 ```bash
 pip install openpyxl
-
+```
 
 ## Usage
 
@@ -24,11 +24,13 @@ pip install openpyxl
 
 ```bash
 git clone https://github.com/thabir303/automation-with-python.git
+
 ```
 2. Navigate to the directory:
 
 ```bash
 cd automation-with-python
+
 ```
 
 3. Make sure you have an Excel file with at least 3 columns. The script applies the correction to the values in the third column (prices).
@@ -37,8 +39,10 @@ cd automation-with-python
 
 ```bash
 python automation.py
+
 ```
 5. Example:
 ```bash
 > filename : your_excel_file.xlsx
+
 ```
